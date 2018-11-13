@@ -19718,3 +19718,5 @@ com.intellij.util.IncorrectOperationException: Cannot bind to PsiClass:Object of
 2018-11-13 23:11:39 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
 2018-11-13 23:11:39 INFO  ApacheHttpClient.testConnection(198) - result = true
 2018-11-13 23:11:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-13 23:12:16 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-11-13 23:12:16 INFO  ApacheHttpClient.testConnection(198) - result = true
