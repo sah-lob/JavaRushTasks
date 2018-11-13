@@ -1,0 +1,106 @@
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.3  Build #IC-173.4301.25
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(148) - OS: Mac OS X
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(154) - Last Action: 
+2018-03-27 20:48:58 ERROR StartupManagerImpl.error(130) - Already disposed
+java.lang.AssertionError: Already disposed
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.getMessageBus(ComponentManagerImpl.java:132)
+	at org.editorconfig.plugincomponents.ConfigProjectComponent.runActivity(ConfigProjectComponent.java:33)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.runAndMeasure(StartupManagerImpl.java:176)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.logActivityDuration(StartupManagerImpl.java:162)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.lambda$runPostStartupActivitiesFromExtensions$1(StartupManagerImpl.java:150)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.runActivity(StartupManagerImpl.java:367)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.runPostStartupActivitiesFromExtensions(StartupManagerImpl.java:152)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$openProject$8(ProjectManagerImpl.java:411)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.loadProjectUnderProgress(ProjectManagerImpl.java:448)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.openProject(ProjectManagerImpl.java:431)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$2.compute(ProjectManagerImpl.java:508)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$2.compute(ProjectManagerImpl.java:499)
+	at com.intellij.openapi.progress.Task$WithResult.run(Task.java:326)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:713)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$5.run(CoreProgressManager.java:397)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:543)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:488)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:94)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$null$10(ApplicationImpl.java:575)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:315)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.3  Build #IC-173.4301.25
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(148) - OS: Mac OS X
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(154) - Last Action: 
+2018-03-27 20:48:58 ERROR StartupManagerImpl.error(130) - Already disposed: Project (Disposed) JavaRushTasks
+java.lang.AssertionError: Already disposed: Project (Disposed) JavaRushTasks
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.lambda$getComponent$1(ComponentManagerImpl.java:166)
+	at com.intellij.openapi.application.ReadAction.run(ReadAction.java:37)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.getComponent(ComponentManagerImpl.java:164)
+	at org.jetbrains.idea.maven.project.MavenProjectsManager.getInstance(MavenProjectsManager.java:127)
+	at org.jetbrains.idea.maven.utils.MavenRehighlighter$MavenRehighlighterPostStartupActivity.runActivity(MavenRehighlighter.java:56)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.runAndMeasure(StartupManagerImpl.java:176)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.logActivityDuration(StartupManagerImpl.java:162)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.lambda$runPostStartupActivitiesFromExtensions$1(StartupManagerImpl.java:150)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.runActivity(StartupManagerImpl.java:367)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.runPostStartupActivitiesFromExtensions(StartupManagerImpl.java:152)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$openProject$8(ProjectManagerImpl.java:411)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.loadProjectUnderProgress(ProjectManagerImpl.java:448)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.openProject(ProjectManagerImpl.java:431)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$2.compute(ProjectManagerImpl.java:508)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl$2.compute(ProjectManagerImpl.java:499)
+	at com.intellij.openapi.progress.Task$WithResult.run(Task.java:326)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:713)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$5.run(CoreProgressManager.java:397)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:543)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:488)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:94)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$null$10(ApplicationImpl.java:575)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:315)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(138) - IntelliJ IDEA 2017.3.3  Build #IC-173.4301.25
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(145) - JDK: 1.8.0_152-release
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(146) - VM: OpenJDK 64-Bit Server VM
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(147) - Vendor: JetBrains s.r.o
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(148) - OS: Mac OS X
+2018-03-27 20:48:58 ERROR StartupManagerImpl.logErrorHeader(154) - Last Action: 
+2018-04-02 00:57:22 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-04-02 00:57:22 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.16 ----------
+
+2018-04-02 00:57:22 INFO  ApacheHttpClient.createAsyncHttpClient(130) - Выбрано 1 прокси. Тип : DIRECT
+2018-04-02 00:57:22 INFO  ApacheHttpClient.<init>(88) - ApacheHttpClient проинстанциирован успешно.
+2018-04-02 00:57:22 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2018-04-02 00:57:22 INFO  ApacheHttpClient.testConnection(196) - result = true
+2018-04-02 00:57:23 INFO  ApacheHttpClient.login(220) - Ожидание ответа сервера.
+2018-04-02 00:57:23 INFO  ApacheHttpClient.login(220) - Ожидание ответа сервера.
+2018-04-02 00:57:23 INFO  ApacheHttpClient.login(224) - responseCode = 200
+2018-04-02 00:57:23 INFO  ApacheHttpClient.login(255) - JSESSIONID=8A40A34710966D20CAE4A10A2F81B5B0
+2018-04-02 00:57:23 INFO  ApacheHttpClient.refreshUserInfo(283) - responseCode = 200
+2018-04-02 00:57:23 INFO  ApacheHttpClient.refreshUserInfo(289) - Информация о пользователе получена.
+2018-04-02 00:57:23 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-04-02 00:57:23 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-04-02 00:57:46 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-04-02 00:57:46 INFO  ApacheHttpClient.getTask(416) - responseCode = 200
+2018-04-02 00:57:50 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-04-02 00:57:50 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.16 ----------
+
+2018-04-02 00:57:51 INFO  ApacheHttpClient.refreshUserInfo(283) - responseCode = 200
+2018-04-02 00:57:51 INFO  ApacheHttpClient.refreshUserInfo(289) - Информация о пользователе получена.
+2018-04-02 00:57:51 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-04-02 00:57:51 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-04-02 00:58:02 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
