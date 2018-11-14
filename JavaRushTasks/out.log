@@ -20621,3 +20621,5 @@ Caused by: java.io.IOException: Connection reset by peer
 	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:588)
 	at java.lang.Thread.run(Thread.java:745)
 2018-11-14 15:09:41 INFO  ApacheHttpClient.testConnection(198) - result = false
+2018-11-14 15:09:50 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-11-14 15:09:50 INFO  ApacheHttpClient.testConnection(198) - result = true

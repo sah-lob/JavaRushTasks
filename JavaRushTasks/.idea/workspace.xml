@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Фабрики (3)">
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3702/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3702/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3702/female/FemaleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3702/female/FemaleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3702/male/MaleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3702/male/MaleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3702/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3702/Условие.jrtc" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Фабрики (4)">
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <ignored path="JavaRushTasks.iws" />
@@ -64,7 +60,7 @@
           <entry key="regexp" value="1" />
           <entry key="txt" value="3" />
           <entry key="xml" value="2" />
-          <entry key="Валидация" value="831" />
+          <entry key="Валидация" value="832" />
           <entry key="Компиляция" value="26" />
           <entry key="Стиль Кода" value="12" />
         </counts>
@@ -78,7 +74,7 @@
           <entry key="PLAIN_TEXT" value="302" />
           <entry key="Properties" value="6" />
           <entry key="Scratch" value="1" />
-          <entry key="UNKNOWN" value="869" />
+          <entry key="UNKNOWN" value="870" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -86,13 +82,13 @@
         <counts>
           <entry key="java" value="30683" />
           <entry key="properties" value="129" />
-          <entry key="txt" value="26" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="30683" />
-          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="PLAIN_TEXT" value="27" />
           <entry key="Properties" value="129" />
         </counts>
       </usages-collector>
@@ -154,13 +150,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3702/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file:///var/folders/ph/0q9_pnpn4qbc546ts2c_hd8w0000gn/T/Валидация">
+          <provider selected="true" editor-type-id="EditorTypeId" />
         </entry>
       </file>
     </leaf>
@@ -923,7 +924,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/alexanderlobachev/Программирование/javarush/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Условие.jrtc" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542196868102" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542197379657" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="RegExp" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -1369,7 +1370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542196057780</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Фабрики (4)">
+      <created>1542196904691</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542196904691</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1388,7 +1396,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9438356" visible="true" weight="0.22710623" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9438356" visible="true" weight="0.22710623" />
       <window_info id="Structure" order="1" sideWeight="0.056164384" side_tool="true" weight="0.20512821" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -1398,7 +1406,7 @@
       <window_info id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8943834" visible="true" weight="0.25510204" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8943834" visible="true" weight="0.25510204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1472,7 +1480,8 @@
     <MESSAGE value="Фабрики (1)" />
     <MESSAGE value="Фабрики (2)" />
     <MESSAGE value="Фабрики (3)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Фабрики (3)" />
+    <MESSAGE value="Фабрики (4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Фабрики (4)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1821,9 +1830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///var/folders/ph/0q9_pnpn4qbc546ts2c_hd8w0000gn/T/Валидация">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3702/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
@@ -1870,6 +1876,9 @@
           <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
         </state>
       </provider>
+    </entry>
+    <entry file="file:///var/folders/ph/0q9_pnpn4qbc546ts2c_hd8w0000gn/T/Валидация">
+      <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
   </component>
   <component name="masterDetails">
