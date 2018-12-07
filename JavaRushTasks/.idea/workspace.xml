@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Рефакторинг MVC">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Найти класс по описанию">
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3602/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3602/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
@@ -55,14 +55,14 @@
           <entry key="gif" value="1" />
           <entry key="iml" value="2" />
           <entry key="info" value="2" />
-          <entry key="java" value="916" />
-          <entry key="jrtc" value="300" />
+          <entry key="java" value="918" />
+          <entry key="jrtc" value="302" />
           <entry key="png" value="1" />
           <entry key="properties" value="6" />
           <entry key="regexp" value="1" />
           <entry key="txt" value="3" />
           <entry key="xml" value="2" />
-          <entry key="Валидация" value="840" />
+          <entry key="Валидация" value="842" />
           <entry key="Компиляция" value="26" />
           <entry key="Стиль Кода" value="12" />
         </counts>
@@ -72,11 +72,11 @@
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="Image" value="3" />
-          <entry key="JAVA" value="916" />
-          <entry key="PLAIN_TEXT" value="305" />
+          <entry key="JAVA" value="918" />
+          <entry key="PLAIN_TEXT" value="307" />
           <entry key="Properties" value="6" />
           <entry key="Scratch" value="1" />
-          <entry key="UNKNOWN" value="878" />
+          <entry key="UNKNOWN" value="880" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -102,29 +102,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3602/Solution.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3603/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///var/folders/ph/0q9_pnpn4qbc546ts2c_hd8w0000gn/T/Валидация">
-          <provider selected="true" editor-type-id="EditorTypeId" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3602/Условие.jrtc">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3603/Условие.jrtc">
           <provider selected="true" editor-type-id="EditorTypeId" />
         </entry>
       </file>
@@ -177,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/AmigoSet.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3502/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3301/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3302/Solution.java" />
@@ -228,6 +215,7 @@
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3609/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3609/CarController.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3602/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3603/Solution.java" />
       </list>
     </option>
   </component>
@@ -291,7 +279,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
               <item name="task36" type="462c0819:PsiDirectoryNode" />
-              <item name="task3602" type="462c0819:PsiDirectoryNode" />
+              <item name="task3603" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRushTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -851,7 +839,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/alexanderlobachev/Программирование/javarush/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task36/task3608/Условие.jrtc" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544192011222" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544192555053" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="RegExp" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -889,7 +877,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -1116,13 +1104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task35.task3502.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task36.task3603.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task35.task3502.*" />
+          <option name="PATTERN" value="com.javarush.task.task36.task3603.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1207,19 +1195,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1332,7 +1320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544191310782</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Найти класс по описанию">
+      <created>1544192061948</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1544192061948</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1351,7 +1346,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9438356" visible="true" weight="0.23199023" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9438356" visible="true" weight="0.23199023" />
       <window_info id="Structure" order="1" sideWeight="0.056164384" side_tool="true" weight="0.20512821" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -1361,7 +1356,7 @@
       <window_info id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8943834" visible="true" weight="0.25510204" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8943834" visible="true" weight="0.25510204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1438,7 +1433,8 @@
     <MESSAGE value="Фабрики (4)" />
     <MESSAGE value="MVC простая версия." />
     <MESSAGE value="Рефакторинг MVC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Рефакторинг MVC" />
+    <MESSAGE value="Найти класс по описанию" />
+    <option name="LAST_COMMIT_MESSAGE" value="Найти класс по описанию" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1498,16 +1494,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3505/Условие.jrtc">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3505/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///var/folders/ph/0q9_pnpn4qbc546ts2c_hd8w0000gn/T/Стиль Кода" />
     <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3505/ConvertableBook.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1840,25 +1826,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3602/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3602/Условие.jrtc">
+      <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
     <entry file="file:///var/folders/ph/0q9_pnpn4qbc546ts2c_hd8w0000gn/T/Валидация">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3602/Условие.jrtc">
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3602/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3603/Условие.jrtc">
       <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3603/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
