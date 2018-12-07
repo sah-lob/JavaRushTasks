@@ -20623,3 +20623,1008 @@ Caused by: java.io.IOException: Connection reset by peer
 2018-11-14 15:09:41 INFO  ApacheHttpClient.testConnection(198) - result = false
 2018-11-14 15:09:50 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
 2018-11-14 15:09:50 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-11-14 15:10:01 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-11-14 15:10:01 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-11-14 15:10:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:10:24 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-11-14 15:10:24 INFO  ApacheHttpClient.getFilteredTasks(324) - responseCode = 200
+2018-11-14 15:11:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:12:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:13:21 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:14:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:15:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:16:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:17:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:18:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:19:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:20:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:21:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:22:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:23:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:24:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:25:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:26:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:27:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:28:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:29:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:30:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:31:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:32:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:33:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:34:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:35:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:36:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:37:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:38:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:39:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:40:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:41:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:42:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:43:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:44:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:45:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:46:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:47:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:48:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:49:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:50:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:51:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:52:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:53:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:54:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 15:55:11 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 16:40:17 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-11-14 18:56:28 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-11-14 23:33:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:34:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:35:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:36:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:37:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:37:36 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-11-14 23:37:36 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-11-14 23:38:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:39:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:40:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:41:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:42:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:43:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:44:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:45:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:46:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:47:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:48:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:49:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:50:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:51:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:52:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:53:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:54:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:55:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:56:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:57:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:58:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-14 23:59:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:00:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:01:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:02:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:03:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:04:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:05:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:06:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:07:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:08:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:09:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:10:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:11:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:12:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:13:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:14:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:15:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:16:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:17:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:18:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:19:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:20:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:21:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:22:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:23:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:24:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:25:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:26:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:27:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:28:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:29:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:30:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:31:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:32:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:33:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:34:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:35:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:36:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:37:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:38:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:39:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:40:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:41:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:42:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:43:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:44:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:45:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:46:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:47:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:48:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:49:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:50:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:51:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:52:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:53:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:54:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:55:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:56:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:57:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:58:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 00:59:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:00:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:01:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:02:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:03:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:04:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:05:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:06:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:07:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:08:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:09:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:10:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:11:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:12:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:13:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:14:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:15:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:16:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:17:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:18:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:19:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:20:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:21:07 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:22:52 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-11-15 01:24:43 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:24:43 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:25:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:26:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:27:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:28:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:29:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:30:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:31:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:32:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:33:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:34:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:35:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:36:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:37:33 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:38:34 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:39:34 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:40:34 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-11-15 01:40:56 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-11-15 01:40:56 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-11-15 01:40:59 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-11-15 01:40:59 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-11-15 01:40:59 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-11-15 01:40:59 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-11-15 01:40:59 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-11-15 01:59:19 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-11-15 01:59:19 INFO  ApacheHttpClient.login(228) - Ожидание ответа сервера.
+2018-11-15 01:59:19 INFO  ApacheHttpClient.login(232) - responseCode = 200
+2018-11-15 01:59:19 INFO  ApacheHttpClient.login(263) - JSESSIONID OK
+2018-11-15 01:59:19 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2018-11-15 01:59:19 INFO  ApacheHttpClient.refreshUserInfo(297) - Информация о пользователе получена.
+2018-11-15 21:04:25 ERROR TerminalMode.setEnabled(106) - Mode EightBitInput is not implemented, setting to true
+2018-11-15 21:04:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -20 < 0
+2018-11-15 21:05:19 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -32 < -8
+2018-11-15 21:05:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -25 < -8
+2018-11-15 21:07:07 ERROR TerminalMode.setEnabled(106) - Mode EightBitInput is not implemented, setting to true
+2018-11-15 21:11:19 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -208 < -201
+2018-11-15 21:16:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -209 < -201
+2018-11-15 23:57:47 ERROR TerminalMode.setEnabled(106) - Mode EightBitInput is not implemented, setting to true
+2018-11-16 00:03:21 ERROR TerminalMode.setEnabled(106) - Mode EightBitInput is not implemented, setting to true
+2018-11-16 00:03:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -30 < -22
+2018-11-16 16:48:53 ERROR JediEmulator.processEscapeSequence(110) - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[
+2018-11-16 16:48:53 ERROR JediEmulator.processEscapeSequence(110) - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[
+2018-11-16 16:48:53 ERROR JediEmulator.createStyleState(899) - Unknown character attribute:29
+2018-11-16 16:48:53 ERROR JediEmulator.processEscapeSequence(137) - Error processing OSC 11;?
+2018-11-16 16:49:01 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -32 < 0
+2018-11-16 16:51:06 ERROR TerminalMode.setEnabled(106) - Mode EightBitInput is not implemented, setting to true
+2018-11-16 16:51:07 ERROR JediEmulator.createStyleState(899) - Unknown character attribute:29
+2018-11-16 16:51:33 ERROR JediEmulator.createStyleState(899) - Unknown character attribute:29
+2018-11-16 16:51:42 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:53 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:54 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:56 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:56 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:56 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:56 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:57 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:57 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -36 < -7
+2018-11-16 16:51:57 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -21 < -7
+2018-11-16 16:54:26 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:26 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:26 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:27 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:27 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:27 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:28 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:28 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:28 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:28 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:28 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:28 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:29 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:29 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:29 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:29 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:30 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:30 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:30 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:30 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:30 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:30 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:31 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:31 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:31 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:31 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:31 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:31 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:31 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:31 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:31 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:32 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:32 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:32 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:32 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:32 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:32 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:32 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:32 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:33 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:33 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:33 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:33 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:33 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:33 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:33 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:34 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:34 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:34 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:34 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:34 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:34 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:35 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:35 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:35 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:35 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:35 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:36 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:37 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:37 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:37 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:38 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:38 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:38 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:38 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:38 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:38 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:39 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:39 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:39 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:39 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:40 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:41 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:43 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:44 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:44 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:44 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:44 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:44 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:45 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:46 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:47 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:48 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:48 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:48 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:48 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:48 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:49 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:50 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -23 < -7
+2018-11-16 16:54:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -16 < -7
+2018-11-16 16:54:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -16 < -7
+2018-11-16 16:54:51 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -16 < -7
+2018-11-16 16:54:59 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -37 < -7
+2018-11-16 16:55:02 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -37 < -7
+2018-11-16 17:15:24 ERROR TerminalMode.setEnabled(106) - Mode EightBitInput is not implemented, setting to true
+2018-11-17 20:45:12 ERROR TerminalMode.setEnabled(106) - Mode EightBitInput is not implemented, setting to true
+2018-11-17 20:45:39 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -45 < -38
+2018-11-17 21:42:29 ERROR CompletionProgressIndicator.error(115) - org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+java.lang.annotation.IncompleteAnnotationException: org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+	at com.intellij.codeInsight.AnnotationInvocationHandler.invoke(AnnotationInvocationHandler.java:58)
+	at com.sun.proxy.$Proxy216.target(Unknown Source)
+	at com.intellij.slicer.SliceUtil.processUsagesFlownDownTo(SliceUtil.java:162)
+	at com.intellij.slicer.JavaSliceUsage.processUsagesFlownDownTo(JavaSliceUsage.java:60)
+	at com.intellij.slicer.SliceUsage.lambda$processChildren$0(SliceUsage.java:90)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:925)
+	at com.intellij.slicer.SliceUsage.processChildren(SliceUsage.java:88)
+	at com.intellij.slicer.SliceNode.lambda$doGetChildren$2(SliceNode.java:116)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:147)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:222)
+	at com.intellij.slicer.SliceNode.doGetChildren(SliceNode.java:116)
+	at com.intellij.slicer.SliceNode.getChildren(SliceNode.java:90)
+	at com.intellij.codeInspection.magicConstant.MagicConstantInspection.processValuesFlownTo(MagicConstantInspection.java:718)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getMembersWithAllowedValues(MagicCompletionContributor.java:134)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getAllowedValues(MagicCompletionContributor.java:69)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.fillCompletionVariants(MagicCompletionContributor.java:60)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-17 21:42:30 ERROR CompletionProgressIndicator.logErrorHeader(120) - IntelliJ IDEA 2018.2.6  Build #IC-182.5107.16
+2018-11-17 21:42:30 ERROR CompletionProgressIndicator.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-11-17 21:42:30 ERROR CompletionProgressIndicator.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-11-17 21:42:30 ERROR CompletionProgressIndicator.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-11-17 21:42:30 ERROR CompletionProgressIndicator.logErrorHeader(129) - OS: Mac OS X
+2018-11-17 21:42:30 ERROR CompletionProgressIndicator.logErrorHeader(135) - Last Action: EditorRight
+2018-11-17 21:42:31 ERROR CompletionProgressIndicator.error(115) - org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+java.lang.annotation.IncompleteAnnotationException: org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+	at com.intellij.codeInsight.AnnotationInvocationHandler.invoke(AnnotationInvocationHandler.java:58)
+	at com.sun.proxy.$Proxy216.target(Unknown Source)
+	at com.intellij.slicer.SliceUtil.processUsagesFlownDownTo(SliceUtil.java:162)
+	at com.intellij.slicer.JavaSliceUsage.processUsagesFlownDownTo(JavaSliceUsage.java:60)
+	at com.intellij.slicer.SliceUsage.lambda$processChildren$0(SliceUsage.java:90)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:925)
+	at com.intellij.slicer.SliceUsage.processChildren(SliceUsage.java:88)
+	at com.intellij.slicer.SliceNode.lambda$doGetChildren$2(SliceNode.java:116)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:147)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:222)
+	at com.intellij.slicer.SliceNode.doGetChildren(SliceNode.java:116)
+	at com.intellij.slicer.SliceNode.getChildren(SliceNode.java:90)
+	at com.intellij.codeInspection.magicConstant.MagicConstantInspection.processValuesFlownTo(MagicConstantInspection.java:718)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getMembersWithAllowedValues(MagicCompletionContributor.java:134)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getAllowedValues(MagicCompletionContributor.java:69)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.fillCompletionVariants(MagicCompletionContributor.java:60)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-17 21:42:31 ERROR CompletionProgressIndicator.logErrorHeader(120) - IntelliJ IDEA 2018.2.6  Build #IC-182.5107.16
+2018-11-17 21:42:31 ERROR CompletionProgressIndicator.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-11-17 21:42:31 ERROR CompletionProgressIndicator.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-11-17 21:42:31 ERROR CompletionProgressIndicator.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-11-17 21:42:31 ERROR CompletionProgressIndicator.logErrorHeader(129) - OS: Mac OS X
+2018-11-17 21:42:31 ERROR CompletionProgressIndicator.logErrorHeader(135) - Last Action: EditorBackSpace
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.error(115) - org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+java.lang.annotation.IncompleteAnnotationException: org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+	at com.intellij.codeInsight.AnnotationInvocationHandler.invoke(AnnotationInvocationHandler.java:58)
+	at com.sun.proxy.$Proxy216.target(Unknown Source)
+	at com.intellij.slicer.SliceUtil.processUsagesFlownDownTo(SliceUtil.java:162)
+	at com.intellij.slicer.JavaSliceUsage.processUsagesFlownDownTo(JavaSliceUsage.java:60)
+	at com.intellij.slicer.SliceUsage.lambda$processChildren$0(SliceUsage.java:90)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:925)
+	at com.intellij.slicer.SliceUsage.processChildren(SliceUsage.java:88)
+	at com.intellij.slicer.SliceNode.lambda$doGetChildren$2(SliceNode.java:116)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:147)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:222)
+	at com.intellij.slicer.SliceNode.doGetChildren(SliceNode.java:116)
+	at com.intellij.slicer.SliceNode.getChildren(SliceNode.java:90)
+	at com.intellij.codeInspection.magicConstant.MagicConstantInspection.processValuesFlownTo(MagicConstantInspection.java:718)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getMembersWithAllowedValues(MagicCompletionContributor.java:134)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getAllowedValues(MagicCompletionContributor.java:69)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.fillCompletionVariants(MagicCompletionContributor.java:60)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(120) - IntelliJ IDEA 2018.2.6  Build #IC-182.5107.16
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(129) - OS: Mac OS X
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(135) - Last Action: EditorBackSpace
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.error(115) - org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+java.lang.annotation.IncompleteAnnotationException: org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+	at com.intellij.codeInsight.AnnotationInvocationHandler.invoke(AnnotationInvocationHandler.java:58)
+	at com.sun.proxy.$Proxy216.target(Unknown Source)
+	at com.intellij.slicer.SliceUtil.processUsagesFlownDownTo(SliceUtil.java:162)
+	at com.intellij.slicer.JavaSliceUsage.processUsagesFlownDownTo(JavaSliceUsage.java:60)
+	at com.intellij.slicer.SliceUsage.lambda$processChildren$0(SliceUsage.java:90)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:925)
+	at com.intellij.slicer.SliceUsage.processChildren(SliceUsage.java:88)
+	at com.intellij.slicer.SliceNode.lambda$doGetChildren$2(SliceNode.java:116)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:147)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:222)
+	at com.intellij.slicer.SliceNode.doGetChildren(SliceNode.java:116)
+	at com.intellij.slicer.SliceNode.getChildren(SliceNode.java:90)
+	at com.intellij.codeInspection.magicConstant.MagicConstantInspection.processValuesFlownTo(MagicConstantInspection.java:718)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getMembersWithAllowedValues(MagicCompletionContributor.java:134)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getAllowedValues(MagicCompletionContributor.java:69)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.fillCompletionVariants(MagicCompletionContributor.java:60)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(120) - IntelliJ IDEA 2018.2.6  Build #IC-182.5107.16
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(129) - OS: Mac OS X
+2018-11-17 21:42:32 ERROR CompletionProgressIndicator.logErrorHeader(135) - Last Action: EditorBackSpace
+2018-11-17 21:42:33 ERROR CompletionProgressIndicator.error(115) - org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+java.lang.annotation.IncompleteAnnotationException: org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+	at com.intellij.codeInsight.AnnotationInvocationHandler.invoke(AnnotationInvocationHandler.java:58)
+	at com.sun.proxy.$Proxy216.target(Unknown Source)
+	at com.intellij.slicer.SliceUtil.processUsagesFlownDownTo(SliceUtil.java:162)
+	at com.intellij.slicer.JavaSliceUsage.processUsagesFlownDownTo(JavaSliceUsage.java:60)
+	at com.intellij.slicer.SliceUsage.lambda$processChildren$0(SliceUsage.java:90)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:925)
+	at com.intellij.slicer.SliceUsage.processChildren(SliceUsage.java:88)
+	at com.intellij.slicer.SliceNode.lambda$doGetChildren$2(SliceNode.java:116)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:147)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:222)
+	at com.intellij.slicer.SliceNode.doGetChildren(SliceNode.java:116)
+	at com.intellij.slicer.SliceNode.getChildren(SliceNode.java:90)
+	at com.intellij.codeInspection.magicConstant.MagicConstantInspection.processValuesFlownTo(MagicConstantInspection.java:718)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getMembersWithAllowedValues(MagicCompletionContributor.java:134)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getAllowedValues(MagicCompletionContributor.java:69)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.fillCompletionVariants(MagicCompletionContributor.java:60)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-17 21:42:33 ERROR CompletionProgressIndicator.logErrorHeader(120) - IntelliJ IDEA 2018.2.6  Build #IC-182.5107.16
+2018-11-17 21:42:33 ERROR CompletionProgressIndicator.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-11-17 21:42:33 ERROR CompletionProgressIndicator.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-11-17 21:42:33 ERROR CompletionProgressIndicator.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-11-17 21:42:33 ERROR CompletionProgressIndicator.logErrorHeader(129) - OS: Mac OS X
+2018-11-17 21:42:33 ERROR CompletionProgressIndicator.logErrorHeader(135) - Last Action: EditorBackSpace
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.error(115) - org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+java.lang.annotation.IncompleteAnnotationException: org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+	at com.intellij.codeInsight.AnnotationInvocationHandler.invoke(AnnotationInvocationHandler.java:58)
+	at com.sun.proxy.$Proxy216.target(Unknown Source)
+	at com.intellij.slicer.SliceUtil.processUsagesFlownDownTo(SliceUtil.java:162)
+	at com.intellij.slicer.JavaSliceUsage.processUsagesFlownDownTo(JavaSliceUsage.java:60)
+	at com.intellij.slicer.SliceUsage.lambda$processChildren$0(SliceUsage.java:90)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:925)
+	at com.intellij.slicer.SliceUsage.processChildren(SliceUsage.java:88)
+	at com.intellij.slicer.SliceNode.lambda$doGetChildren$2(SliceNode.java:116)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:147)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:222)
+	at com.intellij.slicer.SliceNode.doGetChildren(SliceNode.java:116)
+	at com.intellij.slicer.SliceNode.getChildren(SliceNode.java:90)
+	at com.intellij.codeInspection.magicConstant.MagicConstantInspection.processValuesFlownTo(MagicConstantInspection.java:718)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getMembersWithAllowedValues(MagicCompletionContributor.java:134)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getAllowedValues(MagicCompletionContributor.java:69)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.fillCompletionVariants(MagicCompletionContributor.java:60)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(120) - IntelliJ IDEA 2018.2.6  Build #IC-182.5107.16
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(129) - OS: Mac OS X
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(135) - Last Action: EditorBackSpace
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.error(115) - org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+java.lang.annotation.IncompleteAnnotationException: org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+	at com.intellij.codeInsight.AnnotationInvocationHandler.invoke(AnnotationInvocationHandler.java:58)
+	at com.sun.proxy.$Proxy216.target(Unknown Source)
+	at com.intellij.slicer.SliceUtil.processUsagesFlownDownTo(SliceUtil.java:162)
+	at com.intellij.slicer.JavaSliceUsage.processUsagesFlownDownTo(JavaSliceUsage.java:60)
+	at com.intellij.slicer.SliceUsage.lambda$processChildren$0(SliceUsage.java:90)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:925)
+	at com.intellij.slicer.SliceUsage.processChildren(SliceUsage.java:88)
+	at com.intellij.slicer.SliceNode.lambda$doGetChildren$2(SliceNode.java:116)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:147)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:222)
+	at com.intellij.slicer.SliceNode.doGetChildren(SliceNode.java:116)
+	at com.intellij.slicer.SliceNode.getChildren(SliceNode.java:90)
+	at com.intellij.codeInspection.magicConstant.MagicConstantInspection.processValuesFlownTo(MagicConstantInspection.java:718)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getMembersWithAllowedValues(MagicCompletionContributor.java:134)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getAllowedValues(MagicCompletionContributor.java:69)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.fillCompletionVariants(MagicCompletionContributor.java:60)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(120) - IntelliJ IDEA 2018.2.6  Build #IC-182.5107.16
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(129) - OS: Mac OS X
+2018-11-17 21:42:36 ERROR CompletionProgressIndicator.logErrorHeader(135) - Last Action: EditorBackSpace
+2018-11-17 21:42:38 ERROR CompletionProgressIndicator.error(115) - org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+java.lang.annotation.IncompleteAnnotationException: org.intellij.lang.annotations.Flow missing element target. (Unable to find attribute in '@org.intellij.lang.annotations.Flow(sourceIsContainer=true)': can't resolve reference 'org.intellij.lang.annotations.Flow')
+	at com.intellij.codeInsight.AnnotationInvocationHandler.invoke(AnnotationInvocationHandler.java:58)
+	at com.sun.proxy.$Proxy216.target(Unknown Source)
+	at com.intellij.slicer.SliceUtil.processUsagesFlownDownTo(SliceUtil.java:162)
+	at com.intellij.slicer.JavaSliceUsage.processUsagesFlownDownTo(JavaSliceUsage.java:60)
+	at com.intellij.slicer.SliceUsage.lambda$processChildren$0(SliceUsage.java:90)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runReadAction(ApplicationImpl.java:925)
+	at com.intellij.slicer.SliceUsage.processChildren(SliceUsage.java:88)
+	at com.intellij.slicer.SliceNode.lambda$doGetChildren$2(SliceNode.java:116)
+	at com.intellij.openapi.application.impl.ReadMostlyRWLock.executeByImpatientReader(ReadMostlyRWLock.java:147)
+	at com.intellij.openapi.application.impl.ApplicationImpl.executeByImpatientReader(ApplicationImpl.java:222)
+	at com.intellij.slicer.SliceNode.doGetChildren(SliceNode.java:116)
+	at com.intellij.slicer.SliceNode.getChildren(SliceNode.java:90)
+	at com.intellij.codeInspection.magicConstant.MagicConstantInspection.processValuesFlownTo(MagicConstantInspection.java:718)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getMembersWithAllowedValues(MagicCompletionContributor.java:134)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.getAllowedValues(MagicCompletionContributor.java:69)
+	at com.intellij.codeInspection.magicConstant.MagicCompletionContributor.fillCompletionVariants(MagicCompletionContributor.java:60)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.completion.JavaNoVariantsDelegator.fillCompletionVariants(JavaNoVariantsDelegator.java:61)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:149)
+	at com.intellij.codeInsight.completion.CompletionResultSet.runRemainingContributors(CompletionResultSet.java:142)
+	at com.intellij.codeInsight.template.impl.LiveTemplateCompletionContributor$2.addCompletions(LiveTemplateCompletionContributor.java:92)
+	at com.intellij.codeInsight.completion.CompletionProvider.addCompletionVariants(CompletionProvider.java:36)
+	at com.intellij.codeInsight.completion.CompletionContributor.fillCompletionVariants(CompletionContributor.java:141)
+	at com.intellij.codeInsight.completion.CompletionService.getVariantsFromContributors(CompletionService.java:89)
+	at com.intellij.codeInsight.completion.CompletionService.performCompletion(CompletionService.java:118)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.calculateItems(CompletionProgressIndicator.java:815)
+	at com.intellij.codeInsight.completion.CompletionProgressIndicator.runContributors(CompletionProgressIndicator.java:800)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$null$2(CodeCompletionHandlerBase.java:266)
+	at com.intellij.openapi.application.impl.ApplicationImpl.tryRunReadAction(ApplicationImpl.java:1161)
+	at com.intellij.codeInsight.completion.AsyncCompletion.tryReadOrCancel(CompletionThreading.java:181)
+	at com.intellij.codeInsight.completion.CodeCompletionHandlerBase.lambda$doComplete$3(CodeCompletionHandlerBase.java:263)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$null$0(CompletionThreading.java:108)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.lambda$runProcess$1(CoreProgressManager.java:157)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:580)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:525)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:85)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:144)
+	at com.intellij.codeInsight.completion.AsyncCompletion.lambda$startThread$1(CompletionThreading.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl$1.run(ApplicationImpl.java:314)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-11-17 21:42:38 ERROR CompletionProgressIndicator.logErrorHeader(120) - IntelliJ IDEA 2018.2.6  Build #IC-182.5107.16
+2018-11-17 21:42:38 ERROR CompletionProgressIndicator.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-11-17 21:42:38 ERROR CompletionProgressIndicator.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-11-17 21:42:38 ERROR CompletionProgressIndicator.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-11-17 21:42:38 ERROR CompletionProgressIndicator.logErrorHeader(129) - OS: Mac OS X
+2018-11-17 21:42:38 ERROR CompletionProgressIndicator.logErrorHeader(135) - Last Action: EditorBackSpace
+2018-11-17 21:58:37 ERROR TerminalTextBuffer.getLine(264) - Attempt to get line out of bounds: -261 < -232
+2018-12-07 16:07:39 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-12-07 16:07:39 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.21 ----------
+
+2018-12-07 16:07:39 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : DIRECT
+2018-12-07 16:07:39 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-12-07 16:07:40 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-12-07 16:07:40 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-12-07 16:07:40 INFO  ApacheHttpClient.login(228) - Ожидание ответа сервера.
+2018-12-07 16:07:40 INFO  ApacheHttpClient.login(232) - responseCode = 200
+2018-12-07 16:07:40 INFO  ApacheHttpClient.login(263) - JSESSIONID OK
+2018-12-07 16:07:40 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2018-12-07 16:07:40 INFO  ApacheHttpClient.refreshUserInfo(297) - Информация о пользователе получена.
+2018-12-07 16:07:40 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-12-07 16:07:40 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-12-07 16:07:42 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-12-07 16:07:42 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-12-07 16:07:44 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-12-07 16:07:44 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-12-07 16:07:45 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-12-07 16:08:08 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-12-07 16:08:08 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-12-07 16:08:10 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-12-07 16:08:10 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-12-07 16:08:12 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-12-07 16:08:12 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-12-07 16:08:17 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-12-07 16:08:23 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-12-07 16:08:25 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-12-07 16:08:25 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-12-07 16:08:35 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-12-07 16:08:35 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.23 ----------
+
+2018-12-07 16:08:35 INFO  ApacheHttpClient.createAsyncHttpClient(132) - Выбрано 1 прокси. Тип : DIRECT
+2018-12-07 16:08:35 INFO  ApacheHttpClient.<init>(90) - ApacheHttpClient проинстанциирован успешно.
+2018-12-07 16:08:36 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-07 16:08:36 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-07 16:08:36 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2018-12-07 16:08:36 INFO  ApacheHttpClient.login(235) - responseCode = 200
+2018-12-07 16:08:36 INFO  ApacheHttpClient.login(266) - JSESSIONID OK
+2018-12-07 16:08:36 INFO  ApacheHttpClient.refreshUserInfo(294) - responseCode = 200
+2018-12-07 16:08:36 INFO  ApacheHttpClient.refreshUserInfo(300) - Информация о пользователе получена.
+2018-12-07 16:08:36 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-12-07 16:08:36 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-12-07 16:08:39 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-07 16:08:39 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-07 16:08:40 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-07 16:08:40 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-07 16:08:41 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-07 16:08:45 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-07 16:08:45 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-07 16:08:47 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-07 16:08:47 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-07 16:08:58 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-07 16:08:58 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2018-12-07 16:09:07 INFO  ApacheHttpClient.getTaskTemplateInfo(344) - responseCode = 200
+2018-12-07 16:09:09 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-07 16:09:09 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-07 16:09:10 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-07 16:09:10 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-07 16:09:10 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-07 16:09:12 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-07 16:09:12 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-07 16:09:25 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-07 16:09:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:10:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:11:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:12:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:13:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:14:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:15:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:16:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:17:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:18:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:19:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:20:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:21:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:22:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:23:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:23:56 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-07 16:23:56 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-07 16:23:56 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-07 16:23:59 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-12-07 16:24:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:25:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:26:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:26:45 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-07 16:26:45 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-07 16:26:48 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-07 16:26:48 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-07 16:26:48 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-07 16:26:50 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-12-07 16:26:51 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-07 16:26:53 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-07 16:26:53 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-07 16:27:03 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-07 16:27:03 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2018-12-07 16:27:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:28:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:29:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:30:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-07 16:31:36 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
