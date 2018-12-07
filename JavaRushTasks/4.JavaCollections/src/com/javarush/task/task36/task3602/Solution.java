@@ -1,6 +1,5 @@
 package com.javarush.task.task36.task3602;
 
-import java.util.ArrayList;
 import java.util.Collections;
 
 /* 
